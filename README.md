@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity+Blue+Team+Enthusiast+🛡️" alt="Blue Team Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity+Blue+Team+Enthusiast+🛡️&repeat=false" alt="Blue Team Title"/>
 </p>
+
 
 
 <p align="center">
