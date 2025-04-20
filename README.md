@@ -1,60 +1,87 @@
-# Hello, I'm Hafizi Sapie
-<a href="https://www.linkedin.com/in/hafizisapie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1589523322065-40163a8dd001?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Cybersecurity Banner" width="100%" />
+</p>
 
-[Brief Introduction]
+<h1 align="center">🛡️ Cybersecurity Blue Team Enthusiast 🛡️</h1>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<p align="center">
+  <i>Defending systems, hunting threats, and building resilience in a digital world.</i>
+</p>
 
-## Objective
-[Provide Objective]
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Team-Defender-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Threat%20Hunter-Digital%20Forensics-purple?style=for-the-badge&logo=gnuprivacyguard" />
+  <img src="https://img.shields.io/badge/SIEM-Wazuh%20|%20Splunk%20|%20ELK-orange?style=for-the-badge&logo=elasticstack" />
+</p>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 👨‍💻 About Me
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/PokJi-InfoSec/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+🌐 I'm a cybersecurity blue teamer with a passion for **digital forensics**, **threat detection**, and **incident response**.  
+🧪 I spend most of my time in labs analyzing packets, writing detection rules, and exploring logs.  
+🚨 Goal: Detect & respond before the adversary moves!
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🛠️ Blue Team Toolbox
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+| 🧩 Area              | 🔧 Tools & Technologies                               |
+|----------------------|--------------------------------------------------------|
+| **SIEM**             | Wazuh · Splunk · Elastic Stack · Graylog              |
+| **Detection Rules**  | Sigma · YARA · Suricata · Snort                        |
+| **Packet Analysis**  | Zeek · Wireshark · TCPDump                             |
+| **Threat Hunting**   | KQL · Velociraptor · Sysmon · Event Logs              |
+| **DFIR Tools**       | TheHive · Volatility · Autopsy · CyberChef            |
+| **System Hardening** | CIS Benchmarks · Lynis · AuditD                       |
+| **Monitoring**       | OSSEC · NetFlow · Logstash                            |
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 📚 Currently Learning
 
-## Projects
-- <a href="https://github.com/PokJi-InfoSec/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- ✅ MITRE ATT&CK Framework
+- ✅ Custom Sigma Rules & Tuning
+- ✅ Wazuh Rule Optimization
+- ✅ Cloud Security (Azure Sentinel, AWS GuardDuty)
+- ✅ Threat Hunting Playbooks
+
+---
+
+## 🧪 Featured Projects
+
+📦 **Wazuh X Sigma**  
+*Creating real-time alerts for critical MITRE ATT&CK TTPs.*
+
+🔎 **Linux Log Analyzer**  
+*Python script to parse, filter, and identify anomalies in `/var/log/`.*
+
+📊 **Blue Team Dashboard (Kibana)**  
+*Custom dashboards to visualize system alerts and hunting queries.*
+
+🛠 **Incident Response SOPs**  
+*Standard playbooks for common attack scenarios: phishing, brute force, malware infection.*
+
+---
+
+## 📡 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-informational?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/yourusername)
+[![Medium](https://img.shields.io/badge/Medium-Writeups-black?style=flat-square&logo=medium)](https://medium.com/@yourusername)
+[![GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Stay+alert.+Stay+secure.;Logs+never+lie.;Hunt%2C+Detect%2C+Defend."/>
+</p>
+
