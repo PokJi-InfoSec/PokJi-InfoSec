@@ -1,7 +1,6 @@
 <!-- HEADER IMAGE -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1644018322641-c1139c735a8b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Cybersecurity Banner" width="100%" />
-</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity+Blue+Team+Enthusiast+🛡️&repeat=false" alt="Blue Team Title"/>
